@@ -1,0 +1,1357 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1500px;
+	 height: 1034px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1500px;
+	 height: 1034px;
+	 z-index:1;
+} 
+
+ #Layer2 
+{ 
+	 left: 0px; 
+	 top: 8px; 
+	 position: absolute; 
+	 width: 1500px;
+	 height: 1026px;
+	 z-index:2;
+} 
+
+ #Shape2 
+{ 
+	 left: 62px; 
+	 top: 79px; 
+	 position: absolute; 
+	 width: 1363px;
+	 height: 836px;
+	 z-index:3;
+} 
+
+ #Shape1 
+{ 
+	 left: 61px; 
+	 top: 79px; 
+	 position: absolute; 
+	 width: 1364px;
+	 height: 38px;
+	 z-index:4;
+} 
+
+ #Layer3 
+{ 
+	 left: 71px; 
+	 top: 84px; 
+	 position: absolute; 
+	 width: 46px;
+	 height: 29px;
+	 z-index:5;
+} 
+
+ #Shape3 
+{ 
+	 left: 61px; 
+	 top: 115px; 
+	 position: absolute; 
+	 width: 1372px;
+	 height: 55px;
+	 z-index:6;
+} 
+
+ #Shape4 
+{ 
+	 left: 62px; 
+	 top: 168px; 
+	 position: absolute; 
+	 width: 116px;
+	 height: 746px;
+	 z-index:7;
+} 
+
+ #Shape28 
+{ 
+	 left: 1316px; 
+	 top: 86px; 
+	 position: absolute; 
+	 width: 4px;
+	 height: 26px;
+	 z-index:8;
+} 
+
+ #JohnDoe 
+{ 
+	 left: 1331px; 
+	 top: 95px; 
+	 position: absolute; 
+	 width: 50px;
+	 height: 8px;
+	 z-index:9;
+} 
+
+ #Shape29 
+{ 
+	 left: 1387px; 
+	 top: 84px; 
+	 position: absolute; 
+	 width: 31px;
+	 height: 30px;
+	 z-index:10;
+} 
+
+ #Layer17 
+{ 
+	 left: 1274px; 
+	 top: 81px; 
+	 position: absolute; 
+	 width: 31px;
+	 height: 35px;
+	 z-index:11;
+} 
+
+ #Layer16 
+{ 
+	 left: 1230px; 
+	 top: 82px; 
+	 position: absolute; 
+	 width: 27px;
+	 height: 34px;
+	 z-index:12;
+} 
+
+ #Layer15 
+{ 
+	 left: 1187px; 
+	 top: 82px; 
+	 position: absolute; 
+	 width: 29px;
+	 height: 34px;
+	 z-index:13;
+} 
+
+ #Layer14 
+{ 
+	 left: 1139px; 
+	 top: 82px; 
+	 position: absolute; 
+	 width: 42px;
+	 height: 34px;
+	 z-index:14;
+} 
+
+ #Shape19 
+{ 
+	 left: 659px; 
+	 top: 236px; 
+	 position: absolute; 
+	 width: 732px;
+	 height: 456px;
+	 z-index:15;
+} 
+
+ #Shape19copy 
+{ 
+	 left: 659px; 
+	 top: 706px; 
+	 position: absolute; 
+	 width: 732px;
+	 height: 136px;
+	 z-index:16;
+} 
+
+ #SyncTheseProductstoB 
+{ 
+	 left: 686px; 
+	 top: 730px; 
+	 position: absolute; 
+	 width: 290px;
+	 height: 11px;
+	 z-index:17;
+} 
+
+ #Shape23 
+{ 
+	 left: 978px; 
+	 top: 729px; 
+	 position: absolute; 
+	 width: 15px;
+	 height: 15px;
+	 z-index:18;
+} 
+
+ #layer_19 
+{ 
+	 left: 982px; 
+	 top: 732px; 
+	 position: absolute; 
+	 width: 7px;
+	 height: 9px;
+	 z-index:19;
+} 
+
+ #Shape24 
+{ 
+	 left: 753px; 
+	 top: 754px; 
+	 position: absolute; 
+	 width: 26px;
+	 height: 14px;
+	 z-index:20;
+} 
+
+ #Shape24copy 
+{ 
+	 left: 753px; 
+	 top: 775px; 
+	 position: absolute; 
+	 width: 26px;
+	 height: 14px;
+	 z-index:21;
+} 
+
+ #Shape24copy2 
+{ 
+	 left: 753px; 
+	 top: 796px; 
+	 position: absolute; 
+	 width: 26px;
+	 height: 14px;
+	 z-index:22;
+} 
+
+ #Shape25 
+{ 
+	 left: 766px; 
+	 top: 756px; 
+	 position: absolute; 
+	 width: 11px;
+	 height: 11px;
+	 z-index:23;
+} 
+
+ #Shape25copy 
+{ 
+	 left: 766px; 
+	 top: 777px; 
+	 position: absolute; 
+	 width: 11px;
+	 height: 11px;
+	 z-index:24;
+} 
+
+ #Shape25copy2 
+{ 
+	 left: 766px; 
+	 top: 798px; 
+	 position: absolute; 
+	 width: 11px;
+	 height: 11px;
+	 z-index:25;
+} 
+
+ #AllPrintWeb 
+{ 
+	 left: 711px; 
+	 top: 756px; 
+	 position: absolute; 
+	 width: 26px;
+	 height: 53px;
+	 z-index:26;
+} 
+
+ #Shape26 
+{ 
+	 left: 1252px; 
+	 top: 849px; 
+	 position: absolute; 
+	 width: 73px;
+	 height: 37px;
+	 z-index:27;
+} 
+
+ #Saved 
+{ 
+	 left: 1272px; 
+	 top: 856px; 
+	 position: absolute; 
+	 width: 37px;
+	 height: 10px;
+	 z-index:28;
+} 
+
+ #layer_07052020 
+{ 
+	 left: 1266px; 
+	 top: 872px; 
+	 position: absolute; 
+	 width: 50px;
+	 height: 8px;
+	 z-index:29;
+} 
+
+ #Shape27 
+{ 
+	 left: 1342px; 
+	 top: 847px; 
+	 position: absolute; 
+	 width: 26px;
+	 height: 41px;
+	 z-index:30;
+} 
+
+ #Shape27copy 
+{ 
+	 left: 1363px; 
+	 top: 847px; 
+	 position: absolute; 
+	 width: 26px;
+	 height: 41px;
+	 z-index:31;
+} 
+
+ #Shape27copy2 
+{ 
+	 left: 1207px; 
+	 top: 847px; 
+	 position: absolute; 
+	 width: 26px;
+	 height: 41px;
+	 z-index:32;
+} 
+
+ #Shape27copy3 
+{ 
+	 left: 1186px; 
+	 top: 847px; 
+	 position: absolute; 
+	 width: 26px;
+	 height: 41px;
+	 z-index:33;
+} 
+
+ #Shape21 
+{ 
+	 left: 674px; 
+	 top: 303px; 
+	 position: absolute; 
+	 width: 700px;
+	 height: 30px;
+	 z-index:34;
+} 
+
+ #Shape21copy 
+{ 
+	 left: 674px; 
+	 top: 359px; 
+	 position: absolute; 
+	 width: 700px;
+	 height: 30px;
+	 z-index:35;
+} 
+
+ #Shape21copy2 
+{ 
+	 left: 674px; 
+	 top: 417px; 
+	 position: absolute; 
+	 width: 700px;
+	 height: 30px;
+	 z-index:36;
+} 
+
+ #Shape21copy3 
+{ 
+	 left: 674px; 
+	 top: 473px; 
+	 position: absolute; 
+	 width: 700px;
+	 height: 30px;
+	 z-index:37;
+} 
+
+ #Shape21copy4 
+{ 
+	 left: 674px; 
+	 top: 528px; 
+	 position: absolute; 
+	 width: 700px;
+	 height: 30px;
+	 z-index:38;
+} 
+
+ #Shape21copy5 
+{ 
+	 left: 674px; 
+	 top: 586px; 
+	 position: absolute; 
+	 width: 700px;
+	 height: 30px;
+	 z-index:39;
+} 
+
+ #Shape21copy6 
+{ 
+	 left: 674px; 
+	 top: 642px; 
+	 position: absolute; 
+	 width: 700px;
+	 height: 30px;
+	 z-index:40;
+} 
+
+ #layer_12345678910111213 
+{ 
+	 left: 683px; 
+	 top: 287px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 372px;
+	 z-index:41;
+} 
+
+ #Shape18 
+{ 
+	 left: 675px; 
+	 top: 245px; 
+	 position: absolute; 
+	 width: 699px;
+	 height: 32px;
+	 z-index:42;
+} 
+
+ #Product 
+{ 
+	 left: 732px; 
+	 top: 258px; 
+	 position: absolute; 
+	 width: 615px;
+	 height: 10px;
+	 z-index:43;
+} 
+
+ #Shape22 
+{ 
+	 left: 1375px; 
+	 top: 244px; 
+	 position: absolute; 
+	 width: 9px;
+	 height: 440px;
+	 z-index:44;
+} 
+
+ #Shape22copy 
+{ 
+	 left: 1375px; 
+	 top: 244px; 
+	 position: absolute; 
+	 width: 9px;
+	 height: 210px;
+	 z-index:45;
+} 
+
+ #Home 
+{ 
+	 left: 100px; 
+	 top: 225px; 
+	 position: absolute; 
+	 width: 39px;
+	 height: 11px;
+	 z-index:46;
+} 
+
+ #Layer12 
+{ 
+	 left: 98px; 
+	 top: 744px; 
+	 position: absolute; 
+	 width: 46px;
+	 height: 35px;
+	 z-index:47;
+} 
+
+ #Templates 
+{ 
+	 left: 81px; 
+	 top: 383px; 
+	 position: absolute; 
+	 width: 72px;
+	 height: 13px;
+	 z-index:48;
+} 
+
+ #Customize 
+{ 
+	 left: 82px; 
+	 top: 461px; 
+	 position: absolute; 
+	 width: 75px;
+	 height: 12px;
+	 z-index:49;
+} 
+
+ #Specials 
+{ 
+	 left: 90px; 
+	 top: 542px; 
+	 position: absolute; 
+	 width: 60px;
+	 height: 14px;
+	 z-index:50;
+} 
+
+ #SocialMedia 
+{ 
+	 left: 74px; 
+	 top: 622px; 
+	 position: absolute; 
+	 width: 90px;
+	 height: 12px;
+	 z-index:51;
+} 
+
+ #Ticker 
+{ 
+	 left: 98px; 
+	 top: 702px; 
+	 position: absolute; 
+	 width: 44px;
+	 height: 11px;
+	 z-index:52;
+} 
+
+ #Publish 
+{ 
+	 left: 96px; 
+	 top: 786px; 
+	 position: absolute; 
+	 width: 52px;
+	 height: 11px;
+	 z-index:53;
+} 
+
+ #Shape10 
+{ 
+	 left: 62px; 
+	 top: 250px; 
+	 position: absolute; 
+	 width: 117px;
+	 height: 81px;
+	 z-index:54;
+} 
+
+ #Products 
+{ 
+	 left: 90px; 
+	 top: 307px; 
+	 position: absolute; 
+	 width: 63px;
+	 height: 11px;
+	 z-index:55;
+} 
+
+ #Layer10 
+{ 
+	 left: 101px; 
+	 top: 661px; 
+	 position: absolute; 
+	 width: 38px;
+	 height: 36px;
+	 z-index:56;
+} 
+
+ #Layer9 
+{ 
+	 left: 102px; 
+	 top: 582px; 
+	 position: absolute; 
+	 width: 36px;
+	 height: 36px;
+	 z-index:57;
+} 
+
+ #Layer8 
+{ 
+	 left: 105px; 
+	 top: 502px; 
+	 position: absolute; 
+	 width: 32px;
+	 height: 37px;
+	 z-index:58;
+} 
+
+ #Layer7 
+{ 
+	 left: 98px; 
+	 top: 420px; 
+	 position: absolute; 
+	 width: 43px;
+	 height: 38px;
+	 z-index:59;
+} 
+
+ #Layer6 
+{ 
+	 left: 95px; 
+	 top: 340px; 
+	 position: absolute; 
+	 width: 50px;
+	 height: 40px;
+	 z-index:60;
+} 
+
+ #Layer5 
+{ 
+	 left: 102px; 
+	 top: 264px; 
+	 position: absolute; 
+	 width: 36px;
+	 height: 38px;
+	 z-index:61;
+} 
+
+ #Layer4 
+{ 
+	 left: 99px; 
+	 top: 187px; 
+	 position: absolute; 
+	 width: 43px;
+	 height: 33px;
+	 z-index:62;
+} 
+
+ #Shape7 
+{ 
+	 left: 636px; 
+	 top: 169px; 
+	 position: absolute; 
+	 width: 11px;
+	 height: 746px;
+	 z-index:63;
+} 
+
+ #Shape5 
+{ 
+	 left: 1232px; 
+	 top: 125px; 
+	 position: absolute; 
+	 width: 157px;
+	 height: 36px;
+	 z-index:64;
+} 
+
+ #ChangeLocation 
+{ 
+	 left: 1246px; 
+	 top: 137px; 
+	 position: absolute; 
+	 width: 113px;
+	 height: 14px;
+	 z-index:65;
+} 
+
+ #Shape6 
+{ 
+	 left: 1363px; 
+	 top: 137px; 
+	 position: absolute; 
+	 width: 14px;
+	 height: 13px;
+	 z-index:66;
+} 
+
+ #BrewKnowledgeB 
+{ 
+	 left: 150px; 
+	 top: 92px; 
+	 position: absolute; 
+	 width: 508px;
+	 height: 14px;
+	 z-index:67;
+} 
+
+ #TM 
+{ 
+	 left: 260px; 
+	 top: 93px; 
+	 position: absolute; 
+	 width: 14px;
+	 height: 6px;
+	 z-index:68;
+} 
+
+ #TMcopy 
+{ 
+	 left: 403px; 
+	 top: 93px; 
+	 position: absolute; 
+	 width: 14px;
+	 height: 6px;
+	 z-index:69;
+} 
+
+ #BrewLogixOGTavernLoc 
+{ 
+	 left: 148px; 
+	 top: 132px; 
+	 position: absolute; 
+	 width: 423px;
+	 height: 25px;
+	 z-index:70;
+} 
+
+ #BestBeerBar 
+{ 
+	 left: 212px; 
+	 top: 203px; 
+	 position: absolute; 
+	 width: 180px;
+	 height: 19px;
+	 z-index:71;
+} 
+
+ #Shape8 
+{ 
+	 left: 221px; 
+	 top: 253px; 
+	 position: absolute; 
+	 width: 87px;
+	 height: 38px;
+	 z-index:72;
+} 
+
+ #Shape8copy 
+{ 
+	 left: 339px; 
+	 top: 253px; 
+	 position: absolute; 
+	 width: 100px;
+	 height: 38px;
+	 z-index:73;
+} 
+
+ #Shape8copy2 
+{ 
+	 left: 473px; 
+	 top: 253px; 
+	 position: absolute; 
+	 width: 102px;
+	 height: 38px;
+	 z-index:74;
+} 
+
+ #TVMenu 
+{ 
+	 left: 231px; 
+	 top: 267px; 
+	 position: absolute; 
+	 width: 63px;
+	 height: 11px;
+	 z-index:75;
+} 
+
+ #WebMenu 
+{ 
+	 left: 354px; 
+	 top: 267px; 
+	 position: absolute; 
+	 width: 76px;
+	 height: 11px;
+	 z-index:76;
+} 
+
+ #PrintMenu 
+{ 
+	 left: 484px; 
+	 top: 267px; 
+	 position: absolute; 
+	 width: 79px;
+	 height: 11px;
+	 z-index:77;
+} 
+
+ #Shape9 
+{ 
+	 left: 209px; 
+	 top: 315px; 
+	 position: absolute; 
+	 width: 395px;
+	 height: 558px;
+	 z-index:78;
+} 
+
+ #AddaProduct 
+{ 
+	 left: 229px; 
+	 top: 337px; 
+	 position: absolute; 
+	 width: 96px;
+	 height: 11px;
+	 z-index:79;
+} 
+
+ #ProductType 
+{ 
+	 left: 246px; 
+	 top: 362px; 
+	 position: absolute; 
+	 width: 69px;
+	 height: 11px;
+	 z-index:80;
+} 
+
+ #ProductName 
+{ 
+	 left: 246px; 
+	 top: 416px; 
+	 position: absolute; 
+	 width: 79px;
+	 height: 8px;
+	 z-index:81;
+} 
+
+ #City 
+{ 
+	 left: 246px; 
+	 top: 468px; 
+	 position: absolute; 
+	 width: 21px;
+	 height: 11px;
+	 z-index:82;
+} 
+
+ #State 
+{ 
+	 left: 429px; 
+	 top: 466px; 
+	 position: absolute; 
+	 width: 27px;
+	 height: 8px;
+	 z-index:83;
+} 
+
+ #Style 
+{ 
+	 left: 245px; 
+	 top: 520px; 
+	 position: absolute; 
+	 width: 26px;
+	 height: 11px;
+	 z-index:84;
+} 
+
+ #Price 
+{ 
+	 left: 245px; 
+	 top: 573px; 
+	 position: absolute; 
+	 width: 31px;
+	 height: 8px;
+	 z-index:85;
+} 
+
+ #ServingSize 
+{ 
+	 left: 362px; 
+	 top: 573px; 
+	 position: absolute; 
+	 width: 65px;
+	 height: 11px;
+	 z-index:86;
+} 
+
+ #Glassware 
+{ 
+	 left: 477px; 
+	 top: 573px; 
+	 position: absolute; 
+	 width: 55px;
+	 height: 8px;
+	 z-index:87;
+} 
+
+ #ServingType 
+{ 
+	 left: 245px; 
+	 top: 652px; 
+	 position: absolute; 
+	 width: 68px;
+	 height: 11px;
+	 z-index:88;
+} 
+
+ #Shape13 
+{ 
+	 left: 257px; 
+	 top: 666px; 
+	 position: absolute; 
+	 width: 15px;
+	 height: 15px;
+	 z-index:89;
+} 
+
+ #Shape13copy 
+{ 
+	 left: 257px; 
+	 top: 687px; 
+	 position: absolute; 
+	 width: 15px;
+	 height: 15px;
+	 z-index:90;
+} 
+
+ #Shape14 
+{ 
+	 left: 256px; 
+	 top: 666px; 
+	 position: absolute; 
+	 width: 15px;
+	 height: 13px;
+	 z-index:91;
+} 
+
+ #Draft 
+{ 
+	 left: 278px; 
+	 top: 669px; 
+	 position: absolute; 
+	 width: 26px;
+	 height: 8px;
+	 z-index:92;
+} 
+
+ #Package 
+{ 
+	 left: 278px; 
+	 top: 690px; 
+	 position: absolute; 
+	 width: 44px;
+	 height: 11px;
+	 z-index:93;
+} 
+
+ #Notes 
+{ 
+	 left: 245px; 
+	 top: 716px; 
+	 position: absolute; 
+	 width: 30px;
+	 height: 8px;
+	 z-index:94;
+} 
+
+ #ABV 
+{ 
+	 left: 429px; 
+	 top: 520px; 
+	 position: absolute; 
+	 width: 24px;
+	 height: 8px;
+	 z-index:95;
+} 
+
+ #SRM 
+{ 
+	 left: 519px; 
+	 top: 520px; 
+	 position: absolute; 
+	 width: 24px;
+	 height: 8px;
+	 z-index:96;
+} 
+
+ #BreweryName 
+{ 
+	 left: 428px; 
+	 top: 416px; 
+	 position: absolute; 
+	 width: 81px;
+	 height: 11px;
+	 z-index:97;
+} 
+
+ #AddAnother 
+{ 
+	 left: 270px; 
+	 top: 630px; 
+	 position: absolute; 
+	 width: 55px;
+	 height: 6px;
+	 z-index:98;
+} 
+
+ #Shape12 
+{ 
+	 left: 251px; 
+	 top: 628px; 
+	 position: absolute; 
+	 width: 13px;
+	 height: 13px;
+	 z-index:99;
+} 
+
+ #layer_100 
+{ 
+	 left: 255px; 
+	 top: 632px; 
+	 position: absolute; 
+	 width: 5px;
+	 height: 5px;
+	 z-index:100;
+} 
+
+ #Shape11 
+{ 
+	 left: 245px; 
+	 top: 373px; 
+	 position: absolute; 
+	 width: 121px;
+	 height: 32px;
+	 z-index:101;
+} 
+
+ #Shape11copy 
+{ 
+	 left: 245px; 
+	 top: 429px; 
+	 position: absolute; 
+	 width: 165px;
+	 height: 29px;
+	 z-index:102;
+} 
+
+ #Shape11copy3 
+{ 
+	 left: 245px; 
+	 top: 480px; 
+	 position: absolute; 
+	 width: 165px;
+	 height: 29px;
+	 z-index:103;
+} 
+
+ #Shape11copy5 
+{ 
+	 left: 245px; 
+	 top: 531px; 
+	 position: absolute; 
+	 width: 165px;
+	 height: 29px;
+	 z-index:104;
+} 
+
+ #Shape11copy8 
+{ 
+	 left: 245px; 
+	 top: 586px; 
+	 position: absolute; 
+	 width: 105px;
+	 height: 29px;
+	 z-index:105;
+} 
+
+ #Shape11copy9 
+{ 
+	 left: 363px; 
+	 top: 586px; 
+	 position: absolute; 
+	 width: 105px;
+	 height: 29px;
+	 z-index:106;
+} 
+
+ #Shape11copy10 
+{ 
+	 left: 474px; 
+	 top: 586px; 
+	 position: absolute; 
+	 width: 105px;
+	 height: 29px;
+	 z-index:107;
+} 
+
+ #Shape11copy11 
+{ 
+	 left: 244px; 
+	 top: 729px; 
+	 position: absolute; 
+	 width: 337px;
+	 height: 29px;
+	 z-index:108;
+} 
+
+ #Shape15 
+{ 
+	 left: 356px; 
+	 top: 789px; 
+	 position: absolute; 
+	 width: 97px;
+	 height: 34px;
+	 z-index:109;
+} 
+
+ #ADD 
+{ 
+	 left: 392px; 
+	 top: 799px; 
+	 position: absolute; 
+	 width: 25px;
+	 height: 9px;
+	 z-index:110;
+} 
+
+ #StrawberryLemonadeda 
+{ 
+	 left: 253px; 
+	 top: 739px; 
+	 position: absolute; 
+	 width: 155px;
+	 height: 11px;
+	 z-index:111;
+} 
+
+ #Beer 
+{ 
+	 left: 257px; 
+	 top: 384px; 
+	 position: absolute; 
+	 width: 25px;
+	 height: 8px;
+	 z-index:112;
+} 
+
+ #EnterProductName 
+{ 
+	 left: 259px; 
+	 top: 440px; 
+	 position: absolute; 
+	 width: 106px;
+	 height: 8px;
+	 z-index:113;
+} 
+
+ #JuicyHazyIPA 
+{ 
+	 left: 258px; 
+	 top: 543px; 
+	 position: absolute; 
+	 width: 81px;
+	 height: 11px;
+	 z-index:114;
+} 
+
+ #Shape16 
+{ 
+	 left: 335px; 
+	 top: 373px; 
+	 position: absolute; 
+	 width: 3px;
+	 height: 33px;
+	 z-index:115;
+} 
+
+ #Shape17 
+{ 
+	 left: 344px; 
+	 top: 384px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 11px;
+	 z-index:116;
+} 
+
+ #Shape11copy6 
+{ 
+	 left: 426px; 
+	 top: 531px; 
+	 position: absolute; 
+	 width: 65px;
+	 height: 29px;
+	 z-index:117;
+} 
+
+ #Shape11copy7 
+{ 
+	 left: 517px; 
+	 top: 531px; 
+	 position: absolute; 
+	 width: 65px;
+	 height: 29px;
+	 z-index:118;
+} 
+
+ #Shape11copy4 
+{ 
+	 left: 426px; 
+	 top: 480px; 
+	 position: absolute; 
+	 width: 155px;
+	 height: 29px;
+	 z-index:119;
+} 
+
+ #Shape11copy2 
+{ 
+	 left: 426px; 
+	 top: 429px; 
+	 position: absolute; 
+	 width: 155px;
+	 height: 29px;
+	 z-index:120;
+} 
+
+ #Shape16copy 
+{ 
+	 left: 549px; 
+	 top: 481px; 
+	 position: absolute; 
+	 width: 3px;
+	 height: 30px;
+	 z-index:121;
+} 
+
+ #Shape17copy 
+{ 
+	 left: 560px; 
+	 top: 491px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 11px;
+	 z-index:122;
+} 
+
+ #Shape17copy2 
+{ 
+	 left: 560px; 
+	 top: 597px; 
+	 position: absolute; 
+	 width: 12px;
+	 height: 11px;
+	 z-index:123;
+} 
+
+ #Shape16copy2 
+{ 
+	 left: 550px; 
+	 top: 587px; 
+	 position: absolute; 
+	 width: 3px;
+	 height: 30px;
+	 z-index:124;
+} 
+
+ #layer_000 
+{ 
+	 left: 436px; 
+	 top: 543px; 
+	 position: absolute; 
+	 width: 31px;
+	 height: 9px;
+	 z-index:125;
+} 
+
+ #layer_000_0 
+{ 
+	 left: 527px; 
+	 top: 543px; 
+	 position: absolute; 
+	 width: 18px;
+	 height: 8px;
+	 z-index:126;
+} 
+
+ #layer_800 
+{ 
+	 left: 259px; 
+	 top: 596px; 
+	 position: absolute; 
+	 width: 27px;
+	 height: 10px;
+	 z-index:127;
+} 
+
+ #8oz 
+{ 
+	 left: 374px; 
+	 top: 598px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 8px;
+	 z-index:128;
+} 
+
+ #Select 
+{ 
+	 left: 488px; 
+	 top: 597px; 
+	 position: absolute; 
+	 width: 33px;
+	 height: 8px;
+	 z-index:129;
+} 
+
+ #HintDescribetheprodu 
+{ 
+	 left: 252px; 
+	 top: 759px; 
+	 position: absolute; 
+	 width: 175px;
+	 height: 9px;
+	 z-index:130;
+} 
+
+ #ProductList 
+{ 
+	 left: 673px; 
+	 top: 201px; 
+	 position: absolute; 
+	 width: 81px;
+	 height: 11px;
+	 z-index:131;
+} 
+
+ #Shape20 
+{ 
+	 left: 1232px; 
+	 top: 195px; 
+	 position: absolute; 
+	 width: 155px;
+	 height: 22px;
+	 z-index:132;
+} 
+
+ #Layer13 
+{ 
+	 left: 1355px; 
+	 top: 197px; 
+	 position: absolute; 
+	 width: 31px;
+	 height: 20px;
+	 z-index:133;
+} 
+
+ #SearchBar 
+{ 
+	 left: 1244px; 
+	 top: 201px; 
+	 position: absolute; 
+	 width: 66px;
+	 height: 8px;
+	 z-index:134;
+} 
